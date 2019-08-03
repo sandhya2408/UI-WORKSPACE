@@ -1,0 +1,16 @@
+
+table{
+    width:60%;
+    margin:auto;
+    background:blueviolet
+}
+table th,td{
+    border :1px solid blue
+}
+table.ws th,td,tr{
+    border : 1px solid red
+
+}
+table#sd{
+   background:cadetblue
+}
